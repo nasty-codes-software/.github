@@ -1,13 +1,12 @@
-<p align="left" style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/217804026?s=200&v=4" alt="nasty.codes logo" width="48" height="48">
-  <span style="font-size: 1.5rem; font-weight: bold; margin-left: 0.5rem;">nasty.codes</span>
+<p>
+  <a href="https://nasty.codes" target="_blank">
+    <img src="https://nasty.codes/assets/img/nasty.codes_software_light.svg" width="256px" title="nasty.codes Software">
+  </a>
 </p>
 
 Full-stack development from Germany.  
 Web, desktop, and everything in between.  
 One developer. Many years of experience. No nonsense.
-
-**Website:** [nasty.codes](https://nasty.codes)
 
 ---
 
