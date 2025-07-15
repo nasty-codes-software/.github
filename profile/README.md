@@ -21,11 +21,4 @@ I build things from scratch — with clean code, tight feedback loops, and a foc
 
 ---
 
-### Philosophy
-
-Minimal. Transparent. Maintainable.  
-I don't chase trends. I solve problems.
-
----
-
 Feel free to check out the repos or reach out via the website.
