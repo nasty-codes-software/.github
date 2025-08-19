@@ -12,12 +12,11 @@ One developer. Many years of experience. No nonsense.
 
 ### What I Do
 
-- Web apps, sites & APIs  
+- Web apps, PaaS/SaaS solutions, CRM/CMS systems, sites & APIs  
 - Desktop tools & modding  
-- Custom solutions & infrastructure  
-- Performance, clarity & control
+- Custom solutions & infrastructure 
 
-I build things from scratch — with clean code, tight feedback loops, and a focus on real-world use.
+I build things from scratch — with clean code and a focus on real-world use.
 
 ---
 
